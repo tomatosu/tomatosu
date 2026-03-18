@@ -24,10 +24,10 @@
 </tr>
 </table>
 
-<img align="left" width="230" height="230" alt="by zixcore on discord" src="https://64.media.tumblr.com/88bfbc2ccca4ca9bd2a54b132973816e/92d350ea248671bd-91/s1280x1920/362c2f35c020bd4423f9a2d527c929d109c406f5.pnj"/>
+<img align="right" width="230" height="230" alt="by zixcore on discord" src="https://64.media.tumblr.com/88bfbc2ccca4ca9bd2a54b132973816e/92d350ea248671bd-91/s1280x1920/362c2f35c020bd4423f9a2d527c929d109c406f5.pnj"/>
 
-
-<table> 
+ 
+  <table> 
   <tr>
     <th>
       $\color{#0d9baa}{\textsf{The darkness ripped through}}$ <br>
