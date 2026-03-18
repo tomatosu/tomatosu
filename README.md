@@ -24,9 +24,17 @@
 </tr>
 </table>
 
-<img align="left" width="230" height="230" alt="by zixcore on discord" src="https://64.media.tumblr.com/88bfbc2ccca4ca9bd2a54b132973816e/92d350ea248671bd-91/s1280x1920/362c2f35c020bd4423f9a2d527c929d109c406f5.pnj"/>
+ ‎ ‎ 
+ ‎ ‎ ‎ ‎ ‎ 
 
- 
+ ‎ 
+
+ ‎ 
+
+ ‎ 
+ ‎ ‎ 
+ ‎ 
+ ‎ 
   <table> 
   <tr>
     <th>
@@ -41,5 +49,8 @@
 </th>
 </tr>
 </table>
+
+<img align="center" width="230" height="230" alt="by zixcore on discord" src="https://64.media.tumblr.com/88bfbc2ccca4ca9bd2a54b132973816e/92d350ea248671bd-91/s1280x1920/362c2f35c020bd4423f9a2d527c929d109c406f5.pnj"/>
+
 
 <img width="1290" height="192" alt="image" src="https://github.com/user-attachments/assets/e15ac164-bd3f-4931-9a15-78d219c8fb63" />
