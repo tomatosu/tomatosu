@@ -14,7 +14,7 @@
     <th>
       $\color{#0d9baa}{\textsf{About Me!! :3 -}}$ <br>
       $\color{#79aab0}{\textsf{Sasu / Fawn}}$ <br>
-      $\color{#0d9baa}{\textsf{16+ demiboy}}$ <br>
+      $\color{#0d9baa}{\textsf{ 15+ demiboy}}$ <br>
       $\color{#79aab0}{\textsf{He/They}}$ <br>
       $\color{#0d9baa}{\textsf{C+H Always Allowed}}$ <br>
       $\color{#79aab0}{\textsf{Single!}}$ <br>
@@ -35,7 +35,7 @@
  ‎ ‎ 
  ‎ 
  ‎ 
-  <table> 
+  <table align="right"> 
   <tr>
     <th>
       $\color{#0d9baa}{\textsf{The darkness ripped through}}$ <br>
