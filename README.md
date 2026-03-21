@@ -19,7 +19,7 @@
       $\color{#0d9baa}{\textsf{C+H Always Allowed}}$ <br>
       $\color{#79aab0}{\textsf{Single!}}$ <br>
       $\color{#0d9baa}{\textsf{Sasuke fictionkin}}$ <br>
-      $\color{#79aab0}{\textsf{Check Out My Strawpage And Atabook in my links!}}$ <br>
+      $\color{#79aab0}{\textsf{Check Out My PrnsCC And Atabook in my below!}}$ <br>
 </th>
 </tr>
 </table>
@@ -35,7 +35,8 @@
 
  ‎ ‎ 
  ‎ 
- ‎ 
+</a>‎ ‎
+
   <table align="right"> 
   <tr>
     <th>
@@ -50,6 +51,8 @@
 </th>
 </tr>
 </table>
+ ‎  ‎ ‎ ‎ ‎ 
+ <p align= "center"> <a href="https://pronouns.cc/@consumingdarkness" target="_blank" rel="noopener">𝙿𝚛𝚗𝚜𝙲𝙲
 
 
 
