@@ -22,7 +22,8 @@
       $\color{#0d9baa}{\textsf{ 15+ demiboy}}$ <br>
       $\color{#79aab0}{\textsf{He/They}}$ <br>
       $\color{#0d9baa}{\textsf{C+H Always Allowed}}$ <br>
-      $\color{#79aab0}{\textsf{Single!}}$ <br>
+      $\color{#79aab0}{\textsf{Platonically taken ! (5/9/2026)
+     ‎ ‎ ‎ ‎ ‎ ‎  Single romatically }}$ <br>
       $\color{#0d9baa}{\textsf{Sasuke fictionkin}}$ <br>
       $\color{#79aab0}{\textsf{Check Out My PrnsCC And Atabook in my below!}}$ <br>
 </th>
