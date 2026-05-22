@@ -12,7 +12,7 @@
 <a href="https://docs.google.com/document/d/16RyN9sd44g2YnolfpAS1sIxMth1DM6DSqLkJW6uCvWQ/edit?usp=sharing" target="_blank" rel="noopener">Doc</a>
  
  <p align= "right">
-<img align="right" width="400" height="400" alt="by zixcore on discord" src="https://64.media.tumblr.com/5e425ba0082dc364de06249f00cccf98/92d350ea248671bd-ca/s1280x1920/5edfeb2724f8e88c9370ace33e1083d0cd7edb91.pnj"/>
+<img align="right" width="250" height="250" alt="by zixcore on discord" src="https://64.media.tumblr.com/5e425ba0082dc364de06249f00cccf98/92d350ea248671bd-ca/s1280x1920/5edfeb2724f8e88c9370ace33e1083d0cd7edb91.pnj"/>
 
 <table> 
   <tr>
