@@ -30,7 +30,7 @@
 </tr>
 </table>
 
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ <a href="https://coquettevegeta.atabook.org/" target="_blank" rel="noopener">𝙰𝚃𝙰</a>‎ ‎<a href="https://tomatosu.straw.page" target="_blank" rel="noopener">STRAW WIP</a>‎
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  <a href="https://coquettevegeta.atabook.org/" target="_blank" rel="noopener">𝙰𝚃𝙰</a>‎ ‎<a href="https://tomatosu.straw.page" target="_blank" rel="noopener">𝚜𝚝𝚛𝚊𝚠 𝚠𝚒𝚙</a>‎
  ‎ ‎ ‎ ‎ ‎ 
 
  ‎ 
