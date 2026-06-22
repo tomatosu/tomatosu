@@ -16,7 +16,9 @@
       $\color{#782F2F}{\textsf{Platonically taken ! (5/9/2026)
      ‎ ‎ ‎ ‎ ‎ ‎  Single }}$ <br>
       $\color{#590303}{\textsf{Sasuke fictionkin}}$ <br>
-      $\color{#782F2F}{\textsf{Check Out My PrnsCC And Atabook in my below!}}$ <br>
+      $\color{#782F2F}{\textsf{Check Out My Rentry And Atabook in my below!}}$ <br>
+      $\color{#590303}{\textsf{Check links b4 interacting!}}$ <br>
+
 </th>
 </tr>
 </table>
