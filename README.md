@@ -1,8 +1,8 @@
 
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ![](https://komarev.com/ghpvc/?username=tomatosu&color=750808&label=Snakes_‎𓆙&abbreviated=false)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ![](https://komarev.com/ghpvc/?username=tomatosu&color=750808&label=Snakes_‎𓆙&abbreviated=false)
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Almendra&size=30&duration=2000&pause=2000&color=750808&width=220&height=41&lines=The+moon+said+..++%E0%A3%AA+%D6%B4%D6%B6%D6%B8%E2%98%BE.)](https://git.io/typing-svg)
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Almendra&size=30&duration=2000&pause=2000&color=750808&width=220&height=41&lines=The+moon+said+..++%E0%A3%AA+%D6%B4%D6%B6%D6%B8%E2%98%BE.)](https://git.io/typing-svg)
 
 
 <table align= "center"> 
@@ -41,6 +41,7 @@
 </tr>
 </table>
  ‎  ‎ ‎ ‎ ‎ 
-  <a href="https://cursemarked.atabook.org/" target="_blank" rel="noopener"><img width="320" height="110" alt="image" src="https://github.com/user-attachments/assets/0ff738b9-f6b3-4053-8406-f78aedfa3190" />
-</a>‎
+<a href="https://cursemarked.atabook.org/" target="_blank" rel="noopener"><img width="320" height="110" alt="image" src="https://github.com/user-attachments/assets/0ff738b9-f6b3-4053-8406-f78aedfa3190" />
+                                                  <p align= "right">
+ </a> <img width="320" height="110" alt="image" src="https://github.com/user-attachments/assets/f2b3191a-29cd-4958-89e9-6bb2d24afbbd" />
 
