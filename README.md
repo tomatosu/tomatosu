@@ -23,17 +23,10 @@
 
   <p align= "center">
 <img width="530" height="490" alt="image" src="https://github.com/user-attachments/assets/89e116cc-b66a-4ab7-b4b3-6bcf1df0a513" />
-
-
- ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  <a href="https://cursemarked.atabook.org/" target="_blank" rel="noopener">𝙰𝚃𝙰</a>‎ ‎<a href="https://tomatosu.straw.page" target="_blank" rel="noopener">𝚜𝚝𝚛𝚊𝚠 𝚠𝚒𝚙</a>‎
- ‎ ‎ ‎ ‎ ‎ 
-
- ‎
- ‎ ‎ 
- ‎ 
+ ‎ ‎ ‎ ‎ ‎  ‎ 
 </a>‎ ‎
 
-  <table align="right"> 
+  <table align="center"> 
   <tr>
     <th>
       $\color{#590303}{\textsf{The darkness ripped through}}$ <br>
@@ -48,4 +41,6 @@
 </tr>
 </table>
  ‎  ‎ ‎ ‎ ‎ 
+  <a href="https://cursemarked.atabook.org/" target="_blank" rel="noopener"><img width="320" height="110" alt="image" src="https://github.com/user-attachments/assets/0ff738b9-f6b3-4053-8406-f78aedfa3190" />
+</a>‎
 
