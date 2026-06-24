@@ -43,7 +43,6 @@
 </tr>
 </table>
  ‎  ‎ ‎ ‎ ‎ 
-<a href="https://cursemarked.atabook.org/" target="_blank" rel="noopener"><img width="320" height="110" alt="image" src="https://github.com/user-attachments/assets/0ff738b9-f6b3-4053-8406-f78aedfa3190" />
-                                                  <p align= "right">
- </a> <img width="320" height="110" alt="image" src="https://github.com/user-attachments/assets/f2b3191a-29cd-4958-89e9-6bb2d24afbbd" />
+  <p align= "center">
+WIP
 
