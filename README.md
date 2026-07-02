@@ -5,6 +5,7 @@
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Almendra&size=30&duration=2000&pause=2000&color=750808&width=220&height=41&lines=The+moon+said+..++%E0%A3%AA+%D6%B4%D6%B6%D6%B8%E2%98%BE.)](https://git.io/typing-svg)
 
 
+  <p align= "center">
 <img width="3264" height="1348" alt="image" src="https://github.com/user-attachments/assets/be6021d8-04a9-4e93-8240-dc3bc0fd0327" />
 
 
@@ -27,6 +28,7 @@
 </tr>
 </table>
  ‎  ‎ ‎ ‎ ‎ 
-  <p align= "center">
-WIP
+  <p align= "left">
+<img width="416" height="599" alt="image" src="https://github.com/user-attachments/assets/1955d118-797f-44ed-a655-79782c75ef2c" />
+
 
