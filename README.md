@@ -29,9 +29,14 @@
 </table>
  ‎  ‎ ‎ ‎ ‎ 
   <p align= "center">
-<img width="320" height="120" alt="image" src="https://github.com/user-attachments/assets/cd94550e-d9e3-40b7-9fa3-86e86481f7a6" /> ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  <img width="400" height="120" alt="image" src="https://github.com/user-attachments/assets/dce0ff13-5fca-475f-8d92-bd41cdca4d54" />
+<a href="https://wip.org/">
+<img src="https://github.com/user-attachments/assets/cd94550e-d9e3-40b7-9fa3-86e86481f7a6" width="160">
+  
+  ‎  <p align= "center">
+<a href="https://cursemarked.atabook.org/"> 
+<img src="https://github.com/user-attachments/assets/dce0ff13-5fca-475f-8d92-bd41cdca4d54" width="210"/>
 
-  <p align= "center">
-<img width="416" height="599" alt="image" src="https://github.com/user-attachments/assets/1955d118-797f-44ed-a655-79782c75ef2c" />
+<p align= "center">
+  <img width="416" height="599" alt="image" src="https://github.com/user-attachments/assets/1955d118-797f-44ed-a655-79782c75ef2c" />
 
 
