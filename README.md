@@ -1,8 +1,24 @@
 <div align="center">
 
- ![](https://komarev.com/ghpvc/?username=tomatosu&color=750808&&label=Snakes_‎𓆙)
+ ![](https://komarev.com/ghpvc/?username=tomatosu&color=48488C&&label=Snakes_‎𓆙)
 
-![](https://cdn.corenexis.com/f/pJlG5p06O5P.gif) ![](https://cdn.corenexis.com/f/VCAvm0WGSML.png) ![](https://cdn.corenexis.com/f/1saKwhozflZ.gif)
+ 
+ ![](https://cdn.corenexis.com/f/pJlG5p06O5P.gif) </p> ㅤㅤㅤㅤㅤㅤㅤ
+ 
+ $\color{#648bb5}{Sasuㅤㅤ/ㅤㅤ fawnㅤㅤﾒ}$
+
+$\color{#375473}{❛❟❛ㅤㅤ‎ꫂ᭪݁ㅤㅤheㅤㅤhimㅤㅤ…}$
+
+$\color{#648bb5}{८ㅤㅤ INTJ
+ㅤ
+ㅤ  ㅤ𝙨𝙞𝙣𝙜𝙡𝙚ㅤㅤ౨ৎㅤㅤ𖾕𖾝꙼ᩚ𛲕𖾟}$
+
+$\color{#375473}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ5𝙩𝙚𝙚𝙣ㅤㅤﾒ}$ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+
+$\color{#648bb5}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⚛︎ㅤ𝙘+𝙝ㅤfreelyㅤㅤclickㅤlinksㅤb4ㅤinteractingㅤㅤﾒ}$ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+
+
+![](https://cdn.corenexis.com/f/1saKwhozflZ.gif)
 ‎ ‎ 
 ‎ 
 ‎ 
