@@ -19,10 +19,12 @@ $\color{#648bb5}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⚛︎ㅤ𝙘+𝙝ㅤ
 
 
 ![](https://cdn.corenexis.com/f/1saKwhozflZ.gif)
-‎ ‎ 
-‎ 
-‎ 
-‎ 
+
+
+
+
+[<img width="233" height="70" alt="image" src="https://github.com/user-attachments/assets/2542f1c6-c42c-47d1-a6fb-cbdce386dac5" />](https://rentry.co/tomatosuke) ㅤㅤㅤ[<img width="233" height="63" alt="image" src="https://github.com/user-attachments/assets/872b81f1-2ed0-4c7a-bfe3-d30e8fad179c" />](https://cursemarked.atabook.org)
+
 
 ‎ 
 
