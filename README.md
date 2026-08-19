@@ -29,7 +29,7 @@ $\color{#648bb5}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⚛︎ㅤ𝙘+𝙝ㅤ
 ‎ 
 
 ‎ 
-‎ 
+‎[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31svsc7ljlxfwxqhaymfmkdda3g4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&profanity=false&hide_remaster=false&bar_color=7169b0&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 ‎ 
 
 ‎ 
