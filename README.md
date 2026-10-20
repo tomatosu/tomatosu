@@ -3,7 +3,9 @@
  ![](https://komarev.com/ghpvc/?username=tomatosu&color=48488C&&label=Snakes_‎𓆙)
 
  
- ![](https://cdn.corenexis.com/f/pJlG5p06O5P.gif) </p> ㅤㅤㅤㅤㅤㅤㅤ
+
+ <img width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/876786a9-0005-47b6-a360-81b0018aa2cb" />
+</p> ㅤㅤㅤㅤㅤㅤㅤ
  
  $\color{#648bb5}{Sasuㅤㅤ/ㅤㅤ fawnㅤㅤﾒ}$
 
@@ -18,7 +20,8 @@ $\color{#375473}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ5𝙩𝙚𝙚�
 $\color{#648bb5}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⚛︎ㅤ𝙘+𝙝ㅤfreelyㅤㅤclickㅤlinksㅤb4ㅤinteractingㅤㅤﾒ}$ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 
-![](https://cdn.corenexis.com/f/1saKwhozflZ.gif)
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/277fdf1f-4d41-490c-a88a-80752aba19f0" />
+
 
 
 
