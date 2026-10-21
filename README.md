@@ -1,9 +1,10 @@
 <div align="center">
 
- ![](https://komarev.com/ghpvc/?username=tomatosu&color=48488C&&label=Snakes_‎𓆙)
+![](https://komarev.com/ghpvc/?username=tomatosu&color=48488C&&label=Snakes_‎𓆙)
 
 
- <img width="340" height="300" alt="image" src="https://github.com/user-attachments/assets/876786a9-0005-47b6-a360-81b0018aa2cb" />
+ <img src="https://github.com/tomatosu/tomatosu/blob/main/IMG_1909%20(1).png?raw=true" />
+ 
 </p> ㅤㅤㅤㅤㅤㅤㅤ
  
  $\color{#648bb5}{Sasuㅤㅤ/ㅤㅤ fawnㅤㅤﾒ}$
@@ -17,13 +18,16 @@ $\color{#648bb5}{⏾ㅤㅤ INTJ
 $\color{#375473}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ5𝙩𝙚𝙚𝙣ㅤㅤﾒ}$ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 $\color{#648bb5}{ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ⚛︎ㅤ𝙘+𝙝ㅤfreelyㅤㅤclickㅤlinksㅤb4ㅤinteractingㅤㅤﾒ}$ ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+ㅤ
+ㅤ
+
+<img src="https://github.com/tomatosu/tomatosu/blob/main/IMG_1907%20(1).png?raw=true" />
 
 
-<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/277fdf1f-4d41-490c-a88a-80752aba19f0" />
 
-
-
-
+ㅤ
+ㅤ
+ㅤ
 
 [<img width="233" height="70" alt="image" src="https://github.com/user-attachments/assets/2542f1c6-c42c-47d1-a6fb-cbdce386dac5" />](https://rentry.co/tomatosuke) ㅤㅤㅤ[<img width="233" height="63" alt="image" src="https://github.com/user-attachments/assets/872b81f1-2ed0-4c7a-bfe3-d30e8fad179c" />](https://cursemarked.atabook.org)
 
